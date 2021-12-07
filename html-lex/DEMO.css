@@ -1,0 +1,34 @@
+.class1{
+    color: rgba(65, 125, 253, 3);
+    /* background-color:beige ; */
+    opacity: 0.9;
+    /* border-style: none; */
+    border: 2px  dotted #ff33ac  ;
+    
+}
+html{
+    background-image: url(https://previews.123rf.com/images/jaboy/jaboy1701/jaboy170100579/69993249-fresh-green-natural-scenery-background.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    /* background-position: center  ; */
+    background-attachment: scroll;
+   
+}
+div #id1{
+   color:bisque; 
+}
+div span{
+    color: blue;
+}
+div span:hover{
+    color: papayawhip;
+}
+p{
+    border: 5px double black;
+    margin: 25px;
+    padding: 100px;
+    box-sizing: border-box;
+    text-align: justify;
+       
+
+}
